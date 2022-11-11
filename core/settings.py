@@ -89,10 +89,10 @@ else:
     DATABASES = {
             'default': {
                 'ENGINE': 'django.db.backends.mysql',
-                'NAME': 'bqn5txafw2howterc11x',
-                'USER': 'unbo2lwwd7qyxixp',
-                'PASSWORD': 'EkUuzbZiGt3e8KVyacuS',
-                'HOST': 'bqn5txafw2howterc11x-mysql.services.clever-cloud.com',
+                'NAME': 'bxfymhgds8flsmszllks',
+                'USER': 'uajy2185s0oov2fo',
+                'PASSWORD': 'uWBgJJgeLbia4H3CKQXa',
+                'HOST': 'bxfymhgds8flsmszllks-mysql.services.clever-cloud.com',
                 'PORT': 3306,
             }
     }
